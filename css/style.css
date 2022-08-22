@@ -185,7 +185,7 @@
 
 /* MOBILE */
 
-@media(max-width: 600px) {
+@media(max-width: 1000px) {
     #container {
         flex-direction: column;
     }
@@ -195,6 +195,14 @@
         border-right: none;
         border-bottom: 5px solid var(--bio-border-color);
 
+        /*
+        flex: 0 0 20%;
+        min-height: 100vh;
+        background-color: var(--bio-bg-color);
+        text-align: center;
+        padding: 30px 2px;
+        border-right: 0px solid var(--bio-border-color);
+        */
     }
 
     #bio-container h2 {
