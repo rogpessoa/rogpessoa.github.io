@@ -185,12 +185,16 @@
 
 /* MOBILE */
 
-@media(max-width: 460px){
+@media(max-width: 768px){
     
  
 
     #container {
         flex-direction: column;
+        
+        
+        
+        
         
     }
     
