@@ -185,9 +185,13 @@
 
 /* MOBILE */
 
-@media(max-width: 450px) {
+@media(min-width: 720px){
+    
+ 
+
     #container {
         flex-direction: column;
+        
     }
     
     #bio-container {       
