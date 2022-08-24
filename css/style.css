@@ -211,8 +211,10 @@
     }
 
     #about-container {
+        flex: 1 1 100%;
         text-align: center;
         padding: 30px;
+
     }
 
     #about-container .description {
