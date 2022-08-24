@@ -185,7 +185,7 @@
 
 /* MOBILE */
 
-@media(max-width: 1024px){
+@media(max-width: 768px){
     
  
 
@@ -201,12 +201,6 @@
         border-right: none;
         border-bottom: 5px solid var(--bio-border-color);
     }
-
-    #bio-container {
-        flex: 1 1 100%;  
-        background-color: var(--bio-bg-color);
-        text-align: center;
-        border-right: 0px solid var(--bio-border-color);
 
     #bio-container h2 {
         display: none;
