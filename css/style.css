@@ -191,15 +191,11 @@
 
     #container {
         flex-direction: column;
-        
-        
-        
-        
-        
+
     }
     
     #bio-container {       
-        min-height: auto;
+        min-height: 100vh;
         border-right: none;
         border-bottom: 5px solid var(--bio-border-color);
     }
