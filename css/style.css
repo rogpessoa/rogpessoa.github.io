@@ -33,7 +33,7 @@
     min-height: 100vh;
     background-color: var(--bio-bg-color);
     text-align: center;
-    padding: 30px 2px;
+    padding: 100px 2px;
     border-right: 0px solid var(--bio-border-color);
 }
 
