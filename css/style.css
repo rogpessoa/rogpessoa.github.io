@@ -191,7 +191,7 @@
 
     #container {
         flex-direction: column;
-        flex: 1 1 100%;
+        
         
 
     }
@@ -199,7 +199,7 @@
     #bio-container {       
         min-height: 100vh;
         border-right: none;
-        border-bottom: 5px solid var(--bio-border-color);
+        border-bottom: 5px solid var(--main-color);
     }
 
     #bio-container h2 {
