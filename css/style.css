@@ -203,11 +203,9 @@
     }
 
     #bio-container {
-        flex: 0 0 100%;
-        min-height: 100vh;
+        flex: 1 1 100%;  
         background-color: var(--bio-bg-color);
         text-align: center;
-        padding: 30px 2px;
         border-right: 0px solid var(--bio-border-color);
 
     #bio-container h2 {
